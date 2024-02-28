@@ -1,0 +1,57 @@
+h5 {
+color: #062938;
+}
+
+.img-centrata {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.img-centrata2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 18px;
+    box-shadow: 10px 10px 5px #666;
+}
+blockquote p {
+    font-style: italic;
+    text-align: center
+}
+
+div p {
+    color: darkgray;
+    font-size:larger;
+    text-align: center;
+}
+strong {
+    font-style: italic;
+    text-align: left;
+}
+.strong2 {
+    text-align:start;
+}
+body {
+    text-align: center; }
+
+    hr {
+        border-top: 1px solid #0385bd;
+        border-width:30px;
+        
+    }
+    .article1 {
+        text-align: start;
+    }
+    .article2  {
+        font-size:larger;
+        text-align: center; 
+    }
+    li{
+        text-align: justify center;
+        list-style-position:inherit
+    }
+h4{
+    text-align: left;
+}
+    
